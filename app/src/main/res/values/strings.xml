@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KYC Form</string>
+    <string name="received">KYC Form</string>
+    <string name="admin_receiver_status">admin_receiver_status</string>
+    <string name="admin_receiver_status_enabled">admin_receiver_status_enabled</string>
+    <string name="admin_receiver_status_disable_warning">admin_receiver_status_disable_warning</string>
+    <string name="admin_receiver_status_disabled">admin_receiver_status_disable</string>
+    <string name="admin_receiver_status_pw_changed">admin_receiver_status_pw_changed</string>
+    <string name="add_admin_extra_app_text">add_admin_extra_app_text</string>
+</resources>
